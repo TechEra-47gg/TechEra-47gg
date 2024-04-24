@@ -5,8 +5,8 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=GoCode0.GoCode0)
-[![Github](https://img.shields.io/github/followers/GoCode0?label=Follow&style=social)](https://github.com/GoCode0)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=TechEra-47gg.TechEra-47gg)
+[![Github](https://img.shields.io/github/followers/GoCode0?label=Follow&style=social)](https://github.com/TechEra-47gg)
 
 <div size='20px'> Hi! I'm Soufiane, an IT, system admin, tech trainer and a ctf player and organizer - aka [GoCode0][SoufianeProton]. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
@@ -22,7 +22,7 @@
 - 😎 Hacker quote: Life isn't about finding yourself. Life is about creating yourself.
 
 - 🎖 Badges from tryhackme.com and hackthebox.eu (both free accounts, recommended educational websites) :
-<h2> <img src="https://github.com/GoCode0/GoCode0/blob/main/HTB-badge.png" width = 384px> <img src="https://github.com/GoCode0/GoCode0/blob/main/THM-badge.png" width = 384px></h1>
+<h2> <img src="https://github.com/TechEra-47gg/TechEra-47gg/blob/main/HTB-badge.png" width = 384px> <img src="https://github.com/GoCode0/GoCode0/blob/main/THM-badge.png" width = 384px></h1>
 <h2> Skills </h2>
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
