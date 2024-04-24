@@ -18,7 +18,6 @@
 - 😎 Hacker quote: Life isn't about finding yourself. Life is about creating yourself.
 
 - 🎖 Badges from tryhackme.com and hackthebox.eu (both free accounts, recommended educational websites) :
-<h2> <img src="https://github.com/TechEra-47gg/TechEra-47gg/blob/main/HTB-badge.png" width = 384px> <img src="https://github.com/GoCode0/GoCode0/blob/main/THM-badge.png" width = 384px></h1>
 <h2> Skills </h2>
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -45,12 +44,4 @@
 <br>
 <br>
   <br>
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GoCode0&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![github stats](https://github-readme-stats.vercel.app/api?username=GoCode0&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GoCode0&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoCode0&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=GoCode0&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <br>
