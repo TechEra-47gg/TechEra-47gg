@@ -39,7 +39,6 @@
     <a href="#"><img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
     <a href="#"><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
 </p>
-<h2> Connect with me <img src='https://github.com/GoCode0/GoCode0/blob/main/handshake.gif' width="100px"> </h2>
 
 <a href = 'https://www.github.com/GoCode0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
